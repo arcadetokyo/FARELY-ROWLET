@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/arcadetokyo/FARELY-ROWLET/blob/main/assets/IMG_3997.PNG?raw=true" width="200" height="400" alt="IMG_3997">
+  <img src="https://github.com/arcadetokyo/FARELY-ROWLET/blob/main/assets/IMG_3997.PNG?raw=true" width="350" height="350" alt="IMG_3997">
 </div>
 
 <div align="center">
